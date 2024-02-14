@@ -1,2 +1,2 @@
 # login-analytics-board
-okay pal
+login analytics board
